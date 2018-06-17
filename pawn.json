@@ -1,0 +1,7 @@
+{
+	"user": "MP2",
+	"repo": "nohud-setplayercamera",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
